@@ -21,3 +21,8 @@ Governed Data Architecture:
 Built with clean relational models and logical constraints to prevent data redundancy and ensure traceability—from supply source to final user destination.
 
 Our system is designed to support flexible growth across multiple business units and geographic locations while maintaining strict governance over inventory control and asset usage.
+
+---
+# Review
+
+https://youtu.be/YVadqrQL0xc
